@@ -32,7 +32,7 @@ Transformo processos manuais em soluções automatizadas usando Python, IA e pen
 `OpenAI API` `Prompt Engineering` `Process Automation` `LEGO Mindstorms` `Arduino`
 
 **Ferramentas:**  
-`Git` `GitHub` `VS Code` `Linux básico`
+`Git` `GitHub` `VS Code` 
 
 **Idiomas:**  
 🇧🇷 Português (Nativo) | 🇺🇸 Inglês (B2) | 🇪🇸 Espanhol (B2)
@@ -41,10 +41,12 @@ Transformo processos manuais em soluções automatizadas usando Python, IA e pen
 
 ## 📚 Formação
 
-🎓 **Técnico em Automação Industrial** (2024-2026)  
+🎓 **Ainda estudando**
+
+ **Técnico em Automação Industrial** (2024-2026)  
 Instituto Federal de Minas Gerais - Campus Betim
 
-**Certificações relevantes:**
+**Certificações de cursos relevantes:**
 - Inteligência Artificial (Conquer Plus)
 - IA Generativa (Santander Open Academy)
 - Prompt Engineering Responsável (Santander Open Academy)
